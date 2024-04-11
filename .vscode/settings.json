@@ -1,0 +1,35 @@
+{
+  "editor.formatOnSave": false,
+  "editor.rulers": [80,120],
+  "editor.tabSize": 2,
+  "editor.renderLineHighlight": "gutter",
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "breadcrumbs.enabled": true,
+  "editor.parameterHints.enabled": true,
+  "eslint.autoFixOnSave": true,
+  "editor.codeActionsOnSave": { "source.fixAll.eslint": true },
+  "eslint.validate": [
+      {
+          "language": "javascript",
+          "autoFix": true,
+      },
+      {
+          "language": "javascriptreact",
+          "autoFix": true,
+      },
+      {
+          "language": "typescript",
+          "autoFix": true,
+      },
+      {
+          "language": "typescriptreact",
+          "autoFix": true,
+      },        
+  ]
+}
