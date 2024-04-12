@@ -1,7 +1,7 @@
 {
   "name": "@alxmedeiros/expo-router-typescript-nativewind",
   "main": "expo-router/entry",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Alexandre Medeiros <sou@alxmedeiros.dev>",
   "scripts": {
     "start": "expo start",
